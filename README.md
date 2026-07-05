@@ -21,6 +21,5 @@ Older builds are available on the [Releases page](https://github.com/anikin-devo
 
 ## Reporting issues
 
-Please open an [issue](https://github.com/anikin-devops/hptcg-the-videogame/issues)
-with what you were doing, what you expected, and what happened instead. A
-screenshot helps a lot.
+Please follow a [Discord server](https://discord.gg/3mBzGA6hd) and post your bug-report to `#bug-reports` channel.
+A screenshot helps a lot.
