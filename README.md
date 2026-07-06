@@ -1,6 +1,6 @@
 # HPTCG: Arena
 
-**HPTCG: Arena** is an unofficial, fan-made digital adaptation of Harry Potter Trading Card Game from early 00's. The information presented in this videogame about Harry Potter, including card images, characters, names and related indicia are ™ and © Warner Bros. Entertainment Inc. This website is not produced by, endorsed by, supported by, or affiliated with Warner Bros. Entertainment Inc. All rights reserved.
+**HPTCG: Arena** is an unofficial, fan-made digital adaptation of Harry Potter Trading Card Game from early 00's. The information presented in this videogame about Harry Potter, including card images, characters, names and related indicia are ™ and © Warner Bros. Entertainment Inc. This project is not produced by, endorsed by, supported by, or affiliated with Warner Bros. Entertainment Inc. All rights reserved.
 
 **HPTCG: Arena** is FREE-TO-PLAY! This project is intended to follow [Wizards of the Coast's Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy) and is not approved, endorsed, sponsored, or affiliated with Wizards of the Coast, Warner Bros. Entertainment Inc., or any related rights holders. Portions of the game concepts, card materials, names, characters, images, and related indicia are the property of their respective owners, including Wizards of the Coast LLC and Warner Bros. Entertainment Inc. No ownership is claimed over those materials. All rights reserved by their respective owners.
 
