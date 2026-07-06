@@ -1,4 +1,4 @@
-# HPTCG: The Videogame
+# HPTCG: Arena
 
 A fan-made digital adaptation of the Harry Potter Trading Card Game, built in
 Unity. This repository does not contain source code — it exists to hand
@@ -6,11 +6,11 @@ testers playable Windows builds.
 
 ## Download
 
-**[Download the latest Windows build](https://github.com/anikin-devops/hptcg-the-videogame/releases/latest/download/HPTCG-Windows.zip)**
+**[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Windows.zip)**
 
 Unzip anywhere and run `HPTCG.exe`. No installer required.
 
-Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-the-videogame/releases).
+Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-arena/releases).
 
 ## What to test
 
