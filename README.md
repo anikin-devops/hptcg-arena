@@ -34,5 +34,5 @@ You can upload your untap decks into HPTCG: Arena. For that:
 
 ## Reporting issues
 
-Please follow a [Discord server](https://discord.com/invite/EKJSXBC) and post your bug-report to `#hptcg-arene` channel.
+Please follow a [HPTCG Discord Server](https://discord.com/invite/EKJSXBC) and post your bug-report to `#hptcg-arena` channel.
 A screenshot helps a lot.
