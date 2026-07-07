@@ -13,14 +13,26 @@ Unzip anywhere and run `HPTCG.exe`. No installer required.
 
 Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-arena/releases).
 
+## Useful tips
+
+- Hold Right Mouse Button or ctrl when hover over any card - it will zoom it for you.
+
+## [Untap.in](https://untap.in/) compatibility
+
+You can upload your untap decks into HPTCG: Arena. For that:
+1) Export your 60+1 deck from untap.in: `Your deck >> Import/Export >> Download Deck >> Text file without set IDs`;
+2) Put it in /Root_game_folder/Decks directory;
+3) Done! Launch the game and use your deck.
+**Please take a note that not every set has been added to HPTCG: Arena.**
+
 ## What to test
 
 - Classic PvE against the local bot, and Hot Seat for two-player testing on
-  one machine.
-- Base set cards and their printed rules text.
+  one machine;
+- Base set cards and their printed rules text;
 - General UI/UX feel: table layout, hand interaction, overlays, audio.
 
 ## Reporting issues
 
-Please follow a [Discord server](https://discord.gg/3mBzGA6hd) and post your bug-report to `#bug-reports` channel.
+Please follow a [Discord server](https://discord.com/invite/EKJSXBC) and post your bug-report to `#hptcg-arene` channel.
 A screenshot helps a lot.
