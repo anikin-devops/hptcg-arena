@@ -21,7 +21,7 @@ Older builds are available on the [Releases page](https://github.com/anikin-devo
 
 You can upload your untap decks into HPTCG: Arena. For that:
 1) Export your 60+1 deck from untap.in: `Your deck >> Import/Export >> Download Deck >> Text file without set IDs`;
-2) Put it in /Root_game_folder/Decks directory;
+2) Put it in `/Root_game_folder/Decks` directory;
 3) Done! Launch the game and use your deck.
 **Please take a note that not every set has been added to HPTCG: Arena.**
 
