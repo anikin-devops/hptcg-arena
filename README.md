@@ -6,7 +6,7 @@
 
 ## Download
 
-🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.13.0.zip)**
+🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.13.1.zip)**
 Unzip anywhere and run `HPTCG.exe`. No installer required.
 
 🍏 **Download the latest MAC build** - coming soon!
