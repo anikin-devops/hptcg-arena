@@ -9,7 +9,7 @@
 🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.17.0.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
-🍏 **[macOS Community Preview 0.18.0](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.18.0/HPTCG-Arena-Mac_0.18.0.zip)** - not notarized. SHA-256: `0d3ebc9b40f0ec8bfe22cad983356516cb365bc1c93fbe0f77e387e5efc6b388`.
+🍏 **[macOS Community Preview 0.18.0](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.18.0/HPTCG-Arena-Mac_0.18.0.zip)** - not notarized.
 
 The macOS build will be distributed directly from this repository and clearly
 labelled **Community Preview — not notarized**. Gatekeeper will block the first
@@ -23,8 +23,7 @@ After downloading only from this repository:
 4. Click **Open Anyway** for `HPTCG Arena`, authenticate, and confirm **Open**.
 
 This creates a per-app exception. Do not disable Gatekeeper globally and do not
-run `sudo`, `xattr`, or downloaded shell commands. Release notes will list the
-archive's SHA-256 checksum. See Apple's
+run `sudo`, `xattr`, or downloaded shell commands. See Apple's
 [Open apps safely on your Mac](https://support.apple.com/102445).
 
 Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-arena/releases).
