@@ -9,7 +9,7 @@
 🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.17.0.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
-🍏 **macOS Community Preview** - coming soon.
+🍏 **[macOS Community Preview 0.18.0](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.18.0/HPTCG-Arena-Mac_0.18.0.zip)** - not notarized. SHA-256: `0d3ebc9b40f0ec8bfe22cad983356516cb365bc1c93fbe0f77e387e5efc6b388`.
 
 The macOS build will be distributed directly from this repository and clearly
 labelled **Community Preview — not notarized**. Gatekeeper will block the first
