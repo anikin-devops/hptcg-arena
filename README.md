@@ -9,7 +9,23 @@
 🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.17.0.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
-🍏 **Download the latest MAC build** - coming soon!
+🍏 **macOS Community Preview** - coming soon.
+
+The macOS build will be distributed directly from this repository and clearly
+labelled **Community Preview — not notarized**. Gatekeeper will block the first
+ordinary launch because Apple cannot identify/notarize this fan build.
+
+After downloading only from this repository:
+
+1. Extract the ZIP and move `HPTCG Arena.app` to `/Applications`.
+2. Try to open it once and close the warning.
+3. Open **System Settings → Privacy & Security**.
+4. Click **Open Anyway** for `HPTCG Arena`, authenticate, and confirm **Open**.
+
+This creates a per-app exception. Do not disable Gatekeeper globally and do not
+run `sudo`, `xattr`, or downloaded shell commands. Release notes will list the
+archive's SHA-256 checksum. See Apple's
+[Open apps safely on your Mac](https://support.apple.com/102445).
 
 Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-arena/releases).
 
@@ -22,7 +38,8 @@ Older builds are available on the [Releases page](https://github.com/anikin-devo
 You can upload your untap decks into HPTCG: Arena. For that:
 1) Export your 60+1 deck from untap.in: `Your deck >> Import/Export >> Download Deck >> Text file without set IDs`;
 2) Put it in `%USERPROFILE%\AppData\LocalLow\HPTCG\HPTCG Arena\Decks`
-   (the game creates this folder after first launch);
+   on Windows, or `~/Library/Application Support/HPTCG/HPTCG Arena/Decks` on
+   macOS (the game creates this folder after first launch);
 3) Done! Launch the game and use your deck.
 **Please take a note that not every set has been added to HPTCG: Arena.**
 
