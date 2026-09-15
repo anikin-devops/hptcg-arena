@@ -12,6 +12,7 @@ HPTCG: Arena supports both Windows and macOS.
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
 🍏 **[Download the latest macOS build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Mac_0.21.0.zip)**
+SHA-256: `05e31ea7b3947d76c039c48b19cc91aaf032608be1a914b8a953fc7788832b93`
 Universal app for Apple Silicon and Intel, macOS 12.0 or later. Distributed
 directly from this repository and clearly labelled **Community Preview — not
 notarized**. Gatekeeper will block the first ordinary launch because Apple
