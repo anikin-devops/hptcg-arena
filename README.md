@@ -8,7 +8,7 @@
 
 HPTCG: Arena supports both Windows and macOS.
 
-🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.25.2.zip)**
+🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.25.4.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
 🍏 **[Download the latest macOS build](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.25.0/HPTCG-Arena-Mac_0.25.0.zip)**
