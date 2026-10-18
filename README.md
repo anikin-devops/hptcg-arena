@@ -19,7 +19,7 @@ Manual downloads:
 🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.26.0.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
-🍏 **[Download the latest macOS build](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.25.4/HPTCG-Arena-Mac_0.25.4.zip)**
+🍏 **[Download the latest macOS build](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.26.0/HPTCG-Arena-Mac_0.26.0.zip)**
 Universal app for Apple Silicon and Intel, macOS 12.0 or later. Distributed
 directly from this repository and clearly labelled **Community Preview — not
 notarized**. Gatekeeper will block the first ordinary launch because Apple
