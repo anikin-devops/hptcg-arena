@@ -8,6 +8,13 @@
 
 HPTCG: Arena supports both Windows and macOS.
 
+✨ **Recommended on Windows: [Aftergrave Launcher](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher.exe)**
+installs the game, keeps it current with small updates and repairs it if needed.
+See [aftergrave-releases](https://github.com/anikin-devops/aftergrave-releases).
+A macOS launcher is coming; until then use the macOS build below.
+
+Manual downloads:
+
 🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.25.4.zip)**
 Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
 
