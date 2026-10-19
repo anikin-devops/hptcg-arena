@@ -6,37 +6,16 @@
 
 ## Download
 
-HPTCG: Arena supports both Windows and macOS.
+Install and update HPTCG: Arena with **Aftergrave Launcher**:
 
-✨ **Recommended: Aftergrave Launcher** for
-[Windows](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher.exe)
-and [macOS](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher-macOS.zip)
-installs the game, keeps it current with small updates and repairs it if needed.
-See [aftergrave-releases](https://github.com/anikin-devops/aftergrave-releases).
+🪟 **[Windows](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher.exe)** ·
+🍏 **[macOS](https://github.com/anikin-devops/aftergrave-releases/releases/latest/download/AftergraveLauncher-macOS.zip)**
 
-Manual downloads:
-
-🪟 **[Download the latest Windows build](https://github.com/anikin-devops/hptcg-arena/releases/latest/download/HPTCG-Arena-Win_0.26.0.zip)**
-Unzip anywhere and run `HPTCG Arena.exe`. No installer required.
-
-🍏 **[Download the latest macOS build](https://github.com/anikin-devops/hptcg-arena/releases/download/v0.26.0/HPTCG-Arena-Mac_0.26.0.zip)**
-Universal app for Apple Silicon and Intel, macOS 12.0 or later. Distributed
-directly from this repository and clearly labelled **Community Preview — not
-notarized**. Gatekeeper will block the first ordinary launch because Apple
-cannot identify/notarize this fan build.
-
-After downloading only from this repository:
-
-1. Extract the ZIP and move `HPTCG Arena.app` to `/Applications`.
-2. Try to open it once and close the warning.
-3. Open **System Settings → Privacy & Security**.
-4. Click **Open Anyway** for `HPTCG Arena`, authenticate, and confirm **Open**.
-
-This creates a per-app exception. Do not disable Gatekeeper globally and do not
-run `sudo`, `xattr`, or downloaded shell commands. See Apple's
-[Open apps safely on your Mac](https://support.apple.com/102445).
-
-Older builds are available on the [Releases page](https://github.com/anikin-devops/hptcg-arena/releases).
+The launcher installs the game, keeps it current with small updates and repairs it
+if needed. First-launch steps for Windows and macOS are in
+[aftergrave-releases](https://github.com/anikin-devops/aftergrave-releases#security-notes).
+The releases on this repository hold the launcher's game data; they are not meant to
+be downloaded by hand.
 
 ## Useful tips
 
