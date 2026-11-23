@@ -33,6 +33,8 @@ You can upload your untap decks into HPTCG: Arena. For that:
 
 ## What to test
 
+Playing any match requires an internet connection and signing in to HPTCG: Arena.
+
 - Classic PvE against the local bot and online Classic PvP;
 - Cards and printed rules from the sets included in the downloaded build;
 - General UI/UX feel: table layout, hand interaction, overlays, audio.
